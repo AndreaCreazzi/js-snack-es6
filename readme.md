@@ -55,3 +55,13 @@ Questo è l'elenco degli studenti:
    oggetti
 3. Dentro quel array preparo nome tavolo , nome invitato , posto a sedere
 4. stampo in console
+
+### SNACK 2
+
+1. Creo un array di oggetti (id,studenti,voto)
+2. Uso un metodo per l'array precedente creando un nuovo array che contenga gli
+   studenti che hanno un voto superiore a 70
+3. Uso un metodo per l'array precedente creando un nuovo array che contenga gli
+   studenti che hanno un voto superiore a 70 e un id superiore a 120
+4. Uso un metodo per l'array precedente creando un nuovo array che contenga i
+   nomi degli studenti tutti in maiuscolo.
