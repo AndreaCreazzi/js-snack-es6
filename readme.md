@@ -47,3 +47,11 @@ Questo è l'elenco degli studenti:
 <hr>
 
 ## Scaletta
+
+### SNACK 1
+
+1. Creo un array di invitati
+2. Con il vecchio array preparo un metodo per avere un altro array con gli
+   oggetti
+3. Dentro quel array preparo nome tavolo , nome invitato , posto a sedere
+4. stampo in console
