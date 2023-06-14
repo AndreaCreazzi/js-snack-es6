@@ -33,4 +33,4 @@ const lessWeights = bikes.reduce((acc, less) =>
 acc.weight < less.weight ? acc : less
 ,0);
 
-console.log(lessWeights)
+console.log(lessWeights);
