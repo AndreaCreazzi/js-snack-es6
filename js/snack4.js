@@ -49,10 +49,10 @@ for (const team of teams) {
 };
 
 // metodo map
-const teamsFouls = teams.map((team) => {
+const teamsFouls = teams.map(({name , fouls}) => {
     return {
-        teamNames : team.name,
-        teamFouls : team.fouls
+        name,
+        fouls
     }
 });
 
