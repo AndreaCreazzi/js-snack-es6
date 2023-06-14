@@ -102,3 +102,12 @@ Stampare in pagina oltre che in console!
 
 3. Creo un metodo che gira nell'array di oggetti per determinare quale pesa
    meno.
+
+### SNACK 4
+
+1. Creo una funzione per il math random
+2. Creo un array di oggetti che contenga: (nome squadra,falli subiti,punti)
+3. Con il metodo forEach inserisco nei falli e i punti il Math.random
+4. Con il metodo map creo un nuovo array che contenga solo il nome della squadra
+   e i falli subiti.
+5. Stampo in pagina
